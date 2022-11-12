@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kokebb
 - 👀 I’m interested in software engineering 
 - 🌱 I’m currently learning at alx and aau
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate on ... any coding
 - 📫 How to reach me ... kokebbiruh1@gmail.com 
 
 <!---
